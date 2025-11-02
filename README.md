@@ -34,7 +34,7 @@ sweet-shop-management/
 2. Install Maven dependencies
 3. Run the Spring Boot application
 
-The backend server will start on http://localhost:8080
+The backend server will start on http://localhost:8081
 
 ### Frontend (React)
 
@@ -48,7 +48,7 @@ The backend server will start on http://localhost:8080
    npm run dev
    ```
 
-The frontend application will start on http://localhost:3000
+The frontend application will start on http://localhost:5173
 
 ## Features
 
